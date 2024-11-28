@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "674107bca36a3a21ba975c5a"
+  },
+  "nombre": "Guía Turistica en Cancún",
+  "descripcion": "Visitá Cancún, esta guía cuenta con visitas a Playa, Deportes acuáticos, recorrer los Grandes centros turísticos y mucho más\n",
+  "precio": 450,
+  "clienteId": {
+    "$oid": "674107bca36a3a21ba975c59"
+  },
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f130a"
+  },
+  "puntuacion": 8,
+  "link": "https://www.kayak.com.ar/Canc%C3%BAn.34713.guide",
+  "imagen": "./cancun.webp"
+},
+{
+  "_id": {
+    "$oid": "674109fe82e6cb79188c0b6c"
+  },
+  "nombre": "Conocé Tokio, guía turistica",
+  "precio": 500,
+  "descripcion": "Por su sorprendente cultura, por su animada vida nocturna, por probar su exótica gastronomía, cualquier razón es buena para viajar a Tokio.",
+  "clienteId": {
+    "$oid": "674109fe82e6cb79188c0b6b"
+  },
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f130e"
+  },
+  "imagen": "./tokio.webp",
+  "link": "https://www.disfrutatokio.com/",
+  "puntuacion": 7
+},
+{
+  "_id": {
+    "$oid": "67410a1582e6cb79188c0b6e"
+  },
+  "nombre": "Guía para Parque Nacional Torres del Paine",
+  "precio": 200,
+  "descripcion": "Guía completa para visitar Torres del Paine, la maravilla natural más importante de la Patagonia Chilena.",
+  "puntuacion": 10,
+  "clienteId": {
+    "$oid": "67410a1582e6cb79188c0b6d"
+  },
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f1314"
+  },
+  "imagen": "./torresDelPaine.jpg",
+  "link": "https://es.gopatagonic.com/guia-para-visitar-torres-del-paine/"
+},
+{
+  "_id": {
+    "$oid": "67410a4082e6cb79188c0b70"
+  },
+  "puntuacion": 10,
+  "precio": 630,
+  "descripcion": "Estambul es una ciudad increíble para visitar. Es una experiencia increíble. Enteráte más.",
+  "nombre": "Guía Turistica de Estambul",
+  "clienteId": {
+    "$oid": "67410a4082e6cb79188c0b6f"
+  },
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f1319"
+  },
+  "imagen": "./estambul.webp",
+  "link": "https://www.guia-estambul.com/"
+},
+{
+  "_id": {
+    "$oid": "67410a882e66b286d23b8ffb"
+  },
+  "puntuacion": 10,
+  "precio": 165,
+  "descripcion": "Tour al Gran Cañón en español desde Las Vegas con Hoover Dam y almuerzo incluido en Skyview con vista al Gran Cañón. ",
+  "nombre": "Guía a: El Gran Cañón",
+  "clienteId": {
+    "$oid": "67410a882e66b286d23b8ffa"
+  },
+  "destinoId": "66f6044a68f572db1a3f131c",
+  "imagen": "./grancañon.jpeg",
+  "link": "https://www.porlasvegas.com/las-vegas/tour-al-gran-canon-en-espanol/?gad_source=1&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn6wFM5z7otqb-ZFVPiHXkWWUwjd_miJmEl23bD4nwhSYOvApd7bso8aAuO6EALw_wcB"
+}]

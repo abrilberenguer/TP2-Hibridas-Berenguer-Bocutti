@@ -1,102 +1,116 @@
 [{
   "_id": {
-    "$oid": "66faa636ce8281dd60375538"
+    "$oid": "673a0e9070ed87124003b430"
   },
-  "nombre": "Jorge Lopez",
-  "foto": "./jorge.jpg",
-  "descripcion": "Soy Jorge, un hombre de 50 años, apasionado por viajar.",
+  "nombre": "jose",
+  "email": "jose@gmail.com",
+  "password": "$2b$10$vzuCRuiAHyZwqKlB/6KA0.ikFYLP3DCQ7MuUx2IwT5ruJdDSxB.gq",
+  "passwordConfirm": null,
   "destinos": [
-    "66f6044a68f572db1a3f130a",
-    "66f6044a68f572db1a3f1312",
-    "66f6044a68f572db1a3f131d"
+    {
+      "$oid": "66f6044a68f572db1a3f1315"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1316"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1317"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1317"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1318"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f131a"
+    }
+  ],
+  "descripcion": "Hola a todos, soy Jose.",
+  "imagen": "./paris.jpg"
+},
+{
+  "_id": {
+    "$oid": "673f41bb5900dce0a8321f05"
+  },
+  "email": "florencia@gmail.com",
+  "password": "$2b$10$N60K217xB9ch9Rbvqu.7DuI4MtPW3EUiITFg1IR5utMlxBQ557oNy",
+  "passwordConfirm": null,
+  "destinos": [
+    {
+      "$oid": "66f6044a68f572db1a3f131d"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f131c"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f131b"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1319"
+    }
+  ],
+  "descripcion": "Soy Flor y me encanta viajar.",
+  "imagen": "./paris.jpg",
+  "nombre": "Flor :)"
+},
+{
+  "_id": {
+    "$oid": "674488bb805a09b6c588c05f"
+  },
+  "email": "abril123@gmail.com",
+  "password": "$2b$10$Ptl4jkMAVjQnDYaMRvq5kOjJXqajfBntU3I.A/mBifeWuk3d8NCbW",
+  "passwordConfirm": null,
+  "descripcion": "Me encanta viajar y conocer nuevos lugares.",
+  "destinos": [
+    {
+      "$oid": "66f6044a68f572db1a3f1312"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f130a"
+    }
+  ],
+  "imagen": "./paris.jpg",
+  "nombre": "Abril :)"
+},
+{
+  "_id": {
+    "$oid": "6744ca97ff8e5e02bce495a9"
+  },
+  "email": "pedrorodriguez@gmail.com",
+  "password": "$2b$10$ko7twA6tkeqjP90tJZ/XHeoH70l2.phNnwjcxoEVH1PGmIuZACEUe",
+  "passwordConfirm": null,
+  "descripcion": "",
+  "nombre": "Pedro",
+  "destinos": [
+    {
+      "$oid": "66f6044a68f572db1a3f130c"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f130e"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f130f"
+    },
+    {
+      "$oid": "66f6044a68f572db1a3f1310"
+    }
   ]
 },
 {
   "_id": {
-    "$oid": "66faa636ce8281dd60375539"
+    "$oid": "6744cb37ff8e5e02bce495ab"
   },
-  "id": 2,
-  "nombre": "Carla Perez",
-  "foto": "./carla.jpg",
-  "descripcion": "Hola! Soy Carla y amo viajar.",
+  "nombre": "Carlos",
+  "email": "carlos@gmail.com",
+  "password": "$2b$10$IgTKxOaBcJHfiVv0JxH5NeMES2dq7EHB7RXsoib4VMmcAaYzTbqv6",
+  "passwordConfirm": null,
+  "descripcion": "Buenasssss, soy Carlitos",
   "destinos": [
-    "66f6044a68f572db1a3f130b",
-    "66f6044a68f572db1a3f131c"
-  ]
-},
-{
-  "_id": {
-    "$oid": "66faa636ce8281dd6037553a"
-  },
-  "id": 3,
-  "nombre": "Tomás Castaño",
-  "foto": "tomas.jpg",
-  "descripcion": "Acá Tomás, tengo 33 años y hace 2 años estoy conociendo lugares del mundo."
-},
-{
-  "_id": {
-    "$oid": "66faa636ce8281dd6037553b"
-  },
-  "id": 4,
-  "nombre": "Delfina Delgado",
-  "foto": "delfina.jpg",
-  "descripcion": "Me dicen Delfi, y amo la naturaleza.",
-  "destinos": [
-    "66f6044a68f572db1a3f130e",
     "66f6044a68f572db1a3f1311",
-    "66f6044a68f572db1a3f130d"
-  ]
-},
-{
-  "_id": {
-    "$oid": "66faa636ce8281dd6037553c"
-  },
-  "id": 5,
-  "nombre": "Juan Rodriguez",
-  "foto": "juan.jpg",
-  "descripcion": "Soy Juan :).",
-  "destinos": [
-    "66f6044a68f572db1a3f131b",
-    "66f6044a68f572db1a3f131a",
-    "66f6044a68f572db1a3f1319",
-    "66f6044a68f572db1a3f1318"
-  ]
-},
-{
-  "_id": {
-    "$oid": "66fc43328b000403cb9fc42e"
-  },
-  "nombre": "Patricia Suarez",
-  "foto": "patricia.jpg",
-  "descripcion": "Hola! soy pato, y les quiero compartir lo que más amo.",
-  "destinos": [
-    "66f6044a68f572db1a3f130c",
-    "66f6044a68f572db1a3f130f",
-    "66f6044a68f572db1a3f1313"
-  ]
-},
-{
-  "_id": {
-    "$oid": "66fc527ac7d45ebb702439a1"
-  },
-  "nombre": "Bautista Galliano",
-  "foto": "bautista.jpg",
-  "descripcion": "Soy bauti, y me apasionan las culturas.",
-  "destinos": [
-    "66f6044a68f572db1a3f1316",
-    "66f6044a68f572db1a3f1317"
-  ]
-},
-{
-  "_id": {
-    "$oid": "66fc52b5c7d45ebb702439a2"
-  },
-  "nombre": "Justina Lopez",
-  "foto": "justina.jpg",
-  "descripcion": "Hola a todos :).",
-  "destinos": [
-    "66f6044a68f572db1a3f1310",
+    "66f6044a68f572db1a3f1313",
     "66f6044a68f572db1a3f1314",
-    "66f6044a68f572db1a3f1315"
+    "66f6044a68f572db1a3f1315",
+    "66f6044a68f572db1a3f1316"
   ]
 }]

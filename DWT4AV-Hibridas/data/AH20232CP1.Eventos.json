@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6744744ba43f2953ea987b14"
+  },
+  "nombre": "Fiesta en la Playa",
+  "precio": 120,
+  "descripcion": "Fiesta en la playa del atardecer. Incluye bebida y comida.",
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f130b"
+  },
+  "imagen": "./capacabana.jpeg",
+  "puntuacion": 10,
+  "link": "https://imaginariodejaneiro.com/que-visitar-en-rio-de-janeiro/barrios-de-rio-de-janeiro/copacabana/"
+},
+{
+  "_id": {
+    "$oid": "67447a8dfc2c47e835d4fee7"
+  },
+  "nombre": "Desfile de alta costura",
+  "precio": 320,
+  "descripcion": "Desfile de alta costura en Paris, con modelos destacados.",
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f130f"
+  },
+  "imagen": "./paris.jpg",
+  "puntuacion": 9,
+  "link": "https://parisjetaime.com/spa/"
+},
+{
+  "_id": {
+    "$oid": "67447b57fc2c47e835d4fee8"
+  },
+  "nombre": "Fiesta en Selva Amazónica",
+  "precio": 250,
+  "descripcion": "Vení a disfrutar de la fiesta en la Selva Amazónica.",
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f131b"
+  },
+  "imagen": "./amazonica.jpg",
+  "puntuacion": 10,
+  "link": "https://www.tangol.com/blog/esp/viaje-al-amazonas-guia-completa-con-recomendaciones-y-consejos_nota_7072"
+},
+{
+  "_id": {
+    "$oid": "67447c44fc2c47e835d4fee9"
+  },
+  "nombre": "Maratón en la Gran Muralla China",
+  "precio": 180,
+  "descripcion": "Se acerca la maratón en la Gran Muralla China, no te la pierdas.",
+  "destinoId": {
+    "$oid": "66f6044a68f572db1a3f1316"
+  },
+  "imagen": "./cultura.jpg",
+  "puntuacion": 8,
+  "link": "https://www.disfrutapekin.com/gran-muralla-china"
+}]
